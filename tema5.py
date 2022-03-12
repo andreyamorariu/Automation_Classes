@@ -1,18 +1,3 @@
-#a. Usor (recomandat)
-#1. Revizualizeaza intalnirea 5 si ia notite in caz ca ti-a scapat ceva
-#2. Vizualizeaza video despre Functii din 'Primii pasi in Programare'
-#(Daca nu ai facut-o deja)
-#3. Vizualizeaza video 7 despre OOP din 'Primii pasi in Programare'
-#Astfel, la intalnirea LIVE deja va fi a 2-a oara cand vei auzi conceptele
-#si sigur ti se vor intipari in minte mai bine.
-#https://www.itfactory.ro/8174437-intro-in-programare/
-
-#Pentru toate exercitiile
-#Apelati functia de cel putin 2 ori cu valori diferite pentru a testa
-#Daca functia are return, printati raspunsul
-
-#b. Dificultate: usor spre mediu
-
 #1. Functie care sa calculeze si sa returneze suma a 2 numere
 
 #def add_numere(a,b):
@@ -228,33 +213,12 @@
 #x = suma_nr(3)
 #print(f'Suma tuturor numerelor este : {x}')
 
-#BONUS:
 
-#16. Functie in care sa dai un nume romanesc si sa iti printeze pe ecran
-#‘Numele este de baiat’ sau ‘Numele este de fata’
-
-
-
-
-#17. Functie care primesete 2 liste de numere (numerele pot fi dublate)
-#Returnati numerele comune
-
-#Ex:
-#list1 = [1, 1, 2, 3]
-#list2 = [2, 2, 3, 4]
-#Raspuns: {2, 3}
-
-#18. Functie care sa aplice o reducere de pret
-#Daca produsul costa 100 lei si aplicam reducere de 10%
-#Pretul va fi 90
-#Tratati cazurile in care reducerea e invalida. De ex o reducere de 110% e invalida
-
-#19. Functie care sa afiseze data si ora curenta
+#16. Functie care sa afiseze data si ora curenta
 
 #def data_ora():
 #    return datetime.today()
 
 #print(data_ora())
 
-#20. Functie care sa afiseze cate zile mai sunt pana la ziua ta / sau pana la craciun daca nu vrei sa ne zici cand e ziua ta :)
 
