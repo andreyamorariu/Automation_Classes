@@ -1,18 +1,3 @@
-#a. Usor (recomandat)
-#1. Revizualizeaza intalnirea 4 si ia notite in caz ca ti-a scapat ceva
-#2. Vizualizeaza video despre Flow Control din 'Primii pasi in Programare'
-#(Daca nu ai facut-o deja)
-#3. Vizualizeaza video 5 despre Functii din 'Primii pasi in Programare'
-#Astfel, la intalnirea LIVE deja va fi a 2-a oara cand vei auzi conceptele
-#si sigur ti se vor intipari in minte mai bine.
-#https://www.itfactory.ro/8174437-intro-in-programare/
-
-#Iteratiile sunt greute, deoarece necesita putina gandire algoritmica
-#Va rog sa imi scrieti pe slack unde intampinati dificultati si va ajut
-#Daca stati blocati > 30 min, cereti indiciu
-
-#b. Dificultate medie (Faceti cat puteti din ele)
-
 #1.
 #Avand lista
 #masini = ['Audi', 'Volvo', 'BMW', 'Mercedes', 'Aston Martin', 'Lastun', 'Fiat', 'Trabant', 'Opel']
@@ -223,17 +208,6 @@
 #print('Lista ordonata este', alte_numere)
 
 #13.
-#Ghicitoare de numar
-#numar_secret = Generati un numar random intre 1 si 30
-#Numar_ghicit = None
-#Folosind un while
-#   User alege un numar
-#   Programul ii spune:
-#Nr secret e mai mare
-#Nr secret e mai mic
-#Felicitari! Ai ghicit!
-
-#14.
 #Alegeti un numar de la tastatura
 #Ex:7
 #Scrieti un program care sa genereze in consola urmatoarea piramida
@@ -256,7 +230,7 @@
 #        print(i, end=' ')
 #    print('')
 
-#15.
+#14.
 #tastatura_telefon = [
 #  [1, 2, 3],
 #  [4, 5, 6],
