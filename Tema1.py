@@ -1,15 +1,3 @@
-#a. Usor (recomandat)
-#1. Revizualizeaza intalnirea 1 si ia notite in caz ca ti-a scapat ceva
-
-#2. Vizualizeaza video cu Variabile si Tipuri de date din 'Primii pasi in Programare'
-#(Daca nu ai facut-o deja)
-
-#3. Vizualizeaza video cu Operatori si Flow Control din 'Primii pasi in Programare'
-#Astfel, la intalnirea LIVE deja va fi a 2-a oara cand vei auzi conceptele
-#si sigur ti se vor intipari in minte mai bine.
-#https://www.itfactory.ro/8174437-intro-in-programare/
-
-#b. Usor spre Mediu (obligatoriu)
 #1. In cadrul unui comentariu, explicati cu cuvintele voastre ce este o variabila
 #o variabila este un container din memorie care stocheaza valori
 #2. Declarati si initializati cate o variabila din fiecare din urmatoarele tipuri:
@@ -130,22 +118,3 @@
 
 
 
-c. Optionale (may need google)
-16. citeste de la tastatura un string de dimensiune impara
-afiseaza caracterul din mijloc
-
-17.Folosind assert, verificati daca un string este palindrom
-
-18.folosind o singura linie de cod citeste un string de la tastatura (ex: 'alabala portocala')
-si salveaza fiecare cuvant intr-o variabila
-acum printeaza ambele variabile pentru verificare
-19. citeste un string de la tastatura (eg: alabala portocala)
-salveaza primul caracter intr-o variabila (indiferent care este el, incearca cu 2 stringuri diferite)
-capitalizeaza acest caracter peste tot, mai putin pentru primul si ultimul caracter
-=> alAbAlA portocAla
-20.citeste un user de la tastatura
-citeste o parola
-afiseaza: 'Parola pt user x este ***** si are x caractere'
-***** se va calcula dinamic, indiferent de dimensiunea parolei, trebuie sa afiseze corect
-eg: parola abc => ***
-parola abcd => ****
