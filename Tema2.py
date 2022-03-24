@@ -1,13 +1,3 @@
-#a. Usor (recomandat)
-#1. Revizualizeaza intalnirea 2 si ia notite in caz ca ti-a scapat ceva
-#2. Vizualizeaza video despre Operatori si Flow Control din 'Primii pasi in Programare'
-#(Daca nu ai facut-o deja)
-#3. Vizualizeaza video 3 despre Structuri de date din 'Primii pasi in Programare'
-#Astfel, la intalnirea LIVE deja va fi a 2-a oara cand vei auzi conceptele
-#si sigur ti se vor intipari in minte mai bine.
-#https://www.itfactory.ro/8174437-intro-in-programare/
-
-#b. Usor spre Mediu (obligatoriu)
 #Pentru toate exercitiile se va folosi notiunea de if in rezolvare.
 #Indirect veti exersa si operatorii in cadrul conditiilor ramurilor din if
 #X poate fi initializat direct in cod sau citit de la tastatura, dupa preferinte.
