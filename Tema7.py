@@ -1,12 +1,12 @@
-ABSTRACTION
-Clasa abstracta FormaGeometrica
-Contine un field PI=3.14
-Contine o metoda abstracta aria
-Contine o metoda a clasei descrie() - aceasta printeaza pe ecran ‘Cel mai probabil am colturi’
+#ABSTRACTION
+#Clasa abstracta FormaGeometrica
+#Contine un field PI=3.14
+#Contine o metoda abstracta aria
+#Contine o metoda a clasei descrie() - aceasta printeaza pe ecran ‘Cel mai probabil am colturi’
 
 from abc import ABC, abstractmethod
 
-class FormaGeometrica:
+class FormaGeometrica(ABC):
     PI = 3.14
 
     @abstractmethod
