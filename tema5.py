@@ -222,7 +222,9 @@
 #list2 = [2, 2, 3, 4]
 #Raspuns: {2, 3}
 
+
 #17. Functie care sa afiseze data si ora curenta
+
 
 #def data_ora():
 #    return datetime.today()

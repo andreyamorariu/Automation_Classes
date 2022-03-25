@@ -1,4 +1,3 @@
-# Usor spre Mediu (obligatoriu)
 #1. In cadrul unui comentariu, explicati cu cuvintele voastre ce este o variabila
 #o variabila este un container din memorie care stocheaza valori
 #2. Declarati si initializati cate o variabila din fiecare din urmatoarele tipuri:
@@ -111,6 +110,7 @@
 #print(numar_par)
 #numar_impar = string[1::2]
 #print(numar_impar)
+
 
 
 

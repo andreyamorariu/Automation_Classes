@@ -1,7 +1,3 @@
-#b. Obligatorii (mediu)
-
-#Pentru toate clasele, creati cel putin 2 obiecte cu valori diferite si apelati toate metodele clasei
-
 #1.
 #Clasa Cerc
 
@@ -272,8 +268,6 @@
 #cont1.creditare_cont(300)
 #cont2.creditare_cont(150)
 
-
-#BONUS: (daca aveti timp si doriti sa lucrati suplimentar)
 
 #6.
 #Clasa Masina

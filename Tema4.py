@@ -230,7 +230,7 @@
 #        print(i, end=' ')
 #    print('')
 
-#15.
+#14.
 #tastatura_telefon = [
 #  [1, 2, 3],
 #  [4, 5, 6],
