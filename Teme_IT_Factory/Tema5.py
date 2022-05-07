@@ -230,5 +230,3 @@
 #    return datetime.today()
 
 #print(data_ora())
-
-

@@ -139,6 +139,3 @@ Afisati ‘mai aveti z schimbari’
 #    if nota == 7:
 #        counter+=1
 #print(counter)
-
-
-

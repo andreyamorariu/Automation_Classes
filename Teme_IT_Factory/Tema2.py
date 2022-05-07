@@ -172,6 +172,3 @@
 #    print('Triunghiul este valabil')
 #else:
 #    print('Triunghiul nu este valabil')
-
-
-

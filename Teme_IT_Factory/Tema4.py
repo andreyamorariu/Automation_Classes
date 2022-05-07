@@ -244,6 +244,3 @@
 #for i in range(len(tastatura_telefon)):
 #    for j in range(len(tastatura_telefon[i])):
 #        print(f'Cifra curenta este {tastatura_telefon[i][j]}')
-
-
-

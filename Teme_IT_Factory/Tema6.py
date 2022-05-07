@@ -350,7 +350,3 @@
 #masina2.accelereaza(250)
 #masina1.franeaza()
 #masina2.franeaza()
-
-
-
-

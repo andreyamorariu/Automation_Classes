@@ -293,4 +293,3 @@ pingu.fly()
 
 # fortezi o exceptie
 raise IndexError('Limita elevilor din clasa este 30')
-

@@ -153,10 +153,3 @@
 #Afisati intersectia elementelor din aceste 2 seturi
 
 #print(zile_sapt.intersection(weekend))
-
-
-
-
-
-
-

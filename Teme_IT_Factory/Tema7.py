@@ -96,12 +96,3 @@ print(cerc1.aria())
 del cerc1.raza
 cerc1.raza
 print(cerc1.aria())
-
-
-
-
-
-
-
-
-

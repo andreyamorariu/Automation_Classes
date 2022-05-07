@@ -51,7 +51,7 @@ class Test(unittest.TestCase):
 
     # verificam ca element are un atribut asteptat (ex clasa)
     def test_elem_atribute(self):
-        actual = self.chrome.find_element(By.XPATH, *self.SUBMIT_BTN).get_attribute('class')
+        actual = self.chrome.find_element(*self.SUBMIT_BTN).get_attribute('class')
         expected = 'btn btn-lg btn-primary'
         self.assertEqual(expected, actual, 'Submit btn href attribute is wrong')
 

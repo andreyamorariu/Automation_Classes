@@ -185,5 +185,3 @@
 #print(impozit)# =900
 #impozit = calcul_impozit(2400, True)
 #print(impozit)#10
-
-

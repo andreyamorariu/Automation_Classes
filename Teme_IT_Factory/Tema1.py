@@ -110,7 +110,3 @@
 #print(numar_par)
 #numar_impar = string[1::2]
 #print(numar_impar)
-
-
-
-
