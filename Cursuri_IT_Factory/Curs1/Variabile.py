@@ -9,8 +9,8 @@
 # o variabila incepe cu litera mica
 # loosely typed - nu trebuie specificate tipurile de date;
 
-#print(f'Am cumparat o masina marca:{marca_masina}')
-#print(f'Este modelul:{model_masina}')
+print(f'Am cumparat o masina marca:{marca_masina}')
+print(f'Este modelul:{model_masina}')
 
 # suprasciere
 #model_masina = 'XC 60 facelift'
